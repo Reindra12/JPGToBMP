@@ -1,0 +1,2 @@
+jalankan file converJpgToBmp untuk ngeconvert file citra positif (mobil)
+kemudian jalankan file rename file untuk mengubah nama citra negatif sesuai urutan

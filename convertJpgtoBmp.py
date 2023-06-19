@@ -11,8 +11,8 @@ def convert_jpg_to_bmp(input_path, output_path):
         print(f"Terjadi kesalahan saat mengonversi {input_path}: {str(e)}")
 
 
-input_folder = "F:/AMIKOM/THESIS/program/JPGToBMP/dataset/mentah/mobil"
-output_folder = "F:/AMIKOM/THESIS/program/JPGToBMP/dataset/bmp"
+input_folder = "F:/AMIKOM/THESIS/program/Preprocessing/dataset/mentah/mobil"
+output_folder = "F:/AMIKOM/THESIS/program/Preprocessing/dataset/preprocessing/bmp"
 
 # Membuat folder output jika belum ada
 if not os.path.exists(output_folder):
